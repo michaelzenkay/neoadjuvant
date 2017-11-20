@@ -44,3 +44,7 @@ s5 - CNN
 s6 - Create Accuracy and Loss Figure
 s7 - Generate Predictions
 s8 - Generate ROC Curve
+
+
+Visualize 0 layer feature maps
+![features](/fig0.png?raw=true "1st Conv Layer")
