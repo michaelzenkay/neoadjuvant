@@ -15,6 +15,7 @@ s4 - load
   
 s5 - CNN
   Run CNN with data augmentation and 5 fold cross validation
+  
         # Block 1
         Conv2D(64 filters, 3x3 kernel, activation='relu', padding='same', name='block1_conv2')
         Conv2D(64 filters, 3x3 kernel, activation='relu', padding='same', name='block1_conv2')
